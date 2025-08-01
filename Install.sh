@@ -103,7 +103,7 @@ case $choice in
     ;;
   8)
     echo -e "${BRIGHT_GREEN}${EMOJI_CHECK} Installing Daemon...${RESET}"
-    bash <(curl -fsSL https://github.com/spookyMC123/skipt/raw/refs/heads/main/deamon/install.sh)
+    bash <(curl -fsSL https://github.com/spookyMC123/skipt/raw/refs/heads/main/script/deamon/installer.sh)
     ;;
   *)
     echo -e "${RED}${BOLD}${EMOJI_WARNING} Invalid input! Please rerun and enter a number 1-8.${RESET}"
