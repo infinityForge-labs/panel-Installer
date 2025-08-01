@@ -95,7 +95,7 @@ case $choice in
     echo -e "${BRIGHT_YELLOW}${EMOJI_COMING} More panels are in development!${RESET}"
     echo -e "${BG_MAGENTA}${BOLD} 🔁 Returning to main menu in 5 seconds... ${RESET}"
     sleep 5
-    bash <(curl -fsSL https://github.com/spookyMC123/panel-installer/raw/refs/heads/main/installer.sh)
+    bash <(curl -fsSL https://github.com/infinityForge-labs/panel-Installer/raw/refs/heads/main/Install.sh)
     ;;
   7)
     echo -e "${BRIGHT_GREEN}${EMOJI_CHECK} Installing Dashboard UI...${RESET}"
