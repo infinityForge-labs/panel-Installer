@@ -45,7 +45,7 @@ clear
 # Installer Header
 echo -e "${CYAN}${BOLD}"
 echo -e "╔══════════════════════════════════════════════════╗"
-echo -e "║    ${EMOJI_ROCKET} Panel Installer by Joy/N!GHT .EXE </>         ║"
+echo -e "║    ${EMOJI_ROCKET} Panel Installer by Joy/N!GHT .EXE </>      ║"
 echo -e "╚══════════════════════════════════════════════════╝"
 echo -e "${RESET}"
 
