@@ -73,7 +73,7 @@ read -r choice
 case $choice in
   1)
     echo -e "${BRIGHT_GREEN}${EMOJI_CHECK} Installing Pterodactyl Panel...${RESET}"
-    bash <(curl -fsSL https://github.com/spookyMC123/skipt/raw/refs/heads/main/script/draco-v1/installer.sh)
+    bash <(curl -fsSL https://github.com/spookyMC123/skipt/raw/refs/heads/main/script/ptrodactyl/install.sh)
     ;;
   2)
     echo -e "${BRIGHT_GREEN}${EMOJI_CHECK} Installing SkyPort Panel...${RESET}"
